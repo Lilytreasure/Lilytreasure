@@ -7,7 +7,9 @@ Linkedin-linkedin.com/in/dennis-wanja-040408220
 
 Currently learning Flutter-its one  of the most amazing Technologies ever created. The ability to write code runnig on both Android and IOS Patforms is fascinating.<br>
 
-Languages  : JAVA        : KOTLIN
+Languages  : JAVA        : KOTLIN<br>
+
+https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
 
 
 
