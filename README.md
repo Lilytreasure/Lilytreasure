@@ -9,7 +9,11 @@ Currently learning Flutter-its one  of the most amazing Technologies ever create
 
 Languages  : JAVA        : KOTLIN<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lilytreasure&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lilytreasure&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lilytreasure&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 
 
 
