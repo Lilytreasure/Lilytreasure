@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Dennis Wanja <br>
+A mobile applications Developer
+
+
+
 
 <!--
 **Lilytreasure/Lilytreasure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
