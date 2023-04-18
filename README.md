@@ -3,7 +3,7 @@ A mobile applications Developer<br>
 
 Iam open to freelance android applications development reach  using the following details<br>
 Email- lilyngure@gmali.com<br>
-Mobile-+2450796387377<br>
+Linkedin-linkedin.com/in/dennis-wanja-040408220  
 
 Currently learning Flutter-its one  of the most amazing Technologies ever created. The ability to write code runnig on both Android and IOS Patforms is fascinating.
 
