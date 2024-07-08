@@ -5,7 +5,7 @@ I'm open to freelance Android applications development, reach me   using the fol
 Email- lilyngure@gmali.com<br>
 Linkedin-linkedin.com/in/dennis-wanja-040408220  <br>
 
-Languages     : KOTLIN : SWIFT : JAVA: OBJECTIVE-C : DART  <br>
+Languages     : KOTLIN : SWIFT : JAVA:  OBJECTIVE-C  : DART  <br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lilytreasure&theme=dark&background=000000)](https://git.io/streak-stats)<br>
 
