@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Dennis Wanja <br>
 A mobile applications Engineer<br>
 
-I'm open to freelance Android applications development, reach me   using the following details<br>
+I'm open to freelance Android/iOS applications development, reach me   using the following details<br>
 Email- lilyngure@gmali.com<br>
 Linkedin-linkedin.com/in/dennis-wanja-040408220  <br>
 
-Languages     : KOTLIN : SWIFT : JAVA:  OBJECTIVE-C  : DART  <br>
+Languages     : KOTLIN : SWIFT :  OBJECTIVE-C  : DART  <br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lilytreasure&theme=dark&background=000000)](https://git.io/streak-stats)<br>
 
