@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Dennis Wanja <br>
 A mobile applications Engineer<br>
-Secializes in;
-Native Android Development- Kotlin(Jetpack Compose)
-Native iOS Development- Swift(Swift UI)
-Cross Platform:-
-Kotlin Multiplatform
-Dart(Flutter)
+Secializes in;<br>
+Native Android Development- Kotlin(Jetpack Compose)<br>
+Native iOS Development- Swift(Swift UI)<br>
+Cross Platform:-<br>
+Kotlin Multiplatform<br>
+Dart(Flutter)<br>
 
 I'm open to freelance Android/iOS applications development, reach me   using the following details<br>
 Email- lilyngure@gmali.com<br>
