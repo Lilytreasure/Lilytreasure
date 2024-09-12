@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Dennis Wanja <br>
-A mobile applications Developer<br>
+A mobile applications Engineer<br>
 
 I'm open to freelance Android applications development, reach me   using the following details<br>
 Email- lilyngure@gmali.com<br>
