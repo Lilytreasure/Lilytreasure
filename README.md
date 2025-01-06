@@ -11,7 +11,6 @@ Cross Platform: - Kotlin Multiplatform <br>
 - Dart(Flutter)<br>
 
 Email- dennisngure77@gmali.com<br>
-Linkedin-linkedin.com/in/dennis-wanja-040408220  <br>
 
 Languages     : KOTLIN : SWIFT :  OBJECTIVE-C  : DART  <br>
 
