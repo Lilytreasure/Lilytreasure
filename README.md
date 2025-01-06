@@ -10,8 +10,7 @@ Native iOS Development - Swift(Swift UI)<br>
 Cross Platform: - Kotlin Multiplatform <br>
 - Dart(Flutter)<br>
 
-I'm open to freelance Android/iOS applications development, reach me   using the following details<br>
-Email- lilyngure@gmali.com<br>
+Email- dennisngure77@gmali.com<br>
 Linkedin-linkedin.com/in/dennis-wanja-040408220  <br>
 
 Languages     : KOTLIN : SWIFT :  OBJECTIVE-C  : DART  <br>
