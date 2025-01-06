@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Dennis Wanja <br>
 A mobile applications Engineer<br>
+
 Majors in;<br>
+
 Native Android Development - Kotlin(Jetpack Compose)<br>
 
 Native iOS Development - Swift(Swift UI)<br>
